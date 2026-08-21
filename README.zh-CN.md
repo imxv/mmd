@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="docs/assets/mmd-showcase.jpg" alt="MMD 以纸张主题展示英文 Markdown 示例与标题目录" width="820">
+  <img src="docs/assets/mmd-showcase.png" alt="MMD 以纸张主题展示英文 Markdown 示例与标题目录" width="820">
 </p>
 
 <p align="center"><em>纸张主题、英文 Markdown 示例，以及原生标题目录。</em></p>

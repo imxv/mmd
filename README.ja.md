@@ -18,7 +18,7 @@ AppKitとTextKitで作られた、WebViewを使わない軽量なmacOSネイテ�
 ---
 
 <p align="center">
-  <img src="docs/assets/mmd-showcase.jpg" alt="紙テーマで英語のMarkdownショーケースと目次を表示するMMD" width="820">
+  <img src="docs/assets/mmd-showcase.png" alt="紙テーマで英語のMarkdownショーケースと目次を表示するMMD" width="820">
 </p>
 
 <p align="center"><em>紙テーマ、英語のMarkdownショーケース、そしてネイティブな目次。</em></p>
