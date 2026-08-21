@@ -17,6 +17,12 @@ A tiny, native Markdown reader for macOS — built with AppKit and TextKit, with
 
 ---
 
+<p align="center">
+  <img src="docs/assets/mmd-showcase.jpg" alt="MMD displaying the English Markdown showcase in the paper theme" width="820">
+</p>
+
+<p align="center"><em>The native paper theme with a live English Markdown showcase and table of contents.</em></p>
+
 ## Why MMD?
 
 MMD is made for people who want to **open a Markdown file and start reading immediately**. It uses native macOS text rendering instead of embedding a browser, keeping the experience fast, focused, and lightweight.

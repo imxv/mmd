@@ -17,6 +17,12 @@
 
 ---
 
+<p align="center">
+  <img src="docs/assets/mmd-showcase.jpg" alt="MMD 以纸张主题展示英文 Markdown 示例与标题目录" width="820">
+</p>
+
+<p align="center"><em>纸张主题、英文 Markdown 示例，以及原生标题目录。</em></p>
+
 ## 为什么选择 MMD？
 
 MMD 为“**打开 Markdown，马上开始阅读**”而生。它没有在应用里塞进一个浏览器，而是直接使用 macOS 原生文本渲染，带来更轻、更快、更专注的阅读体验。

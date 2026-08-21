@@ -17,6 +17,12 @@ AppKitとTextKitで作られた、WebViewを使わない軽量なmacOSネイテ�
 
 ---
 
+<p align="center">
+  <img src="docs/assets/mmd-showcase.jpg" alt="紙テーマで英語のMarkdownショーケースと目次を表示するMMD" width="820">
+</p>
+
+<p align="center"><em>紙テーマ、英語のMarkdownショーケース、そしてネイティブな目次。</em></p>
+
 ## MMDを選ぶ理由
 
 MMDは、**Markdownファイルを開いて、すぐに読み始めたい**人のために作られています。アプリ内にブラウザを組み込まず、macOSのネイティブなテキスト描画を使うことで、軽快で集中しやすい読書体験を実現します。
